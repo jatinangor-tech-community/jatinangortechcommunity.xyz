@@ -68,28 +68,28 @@ body {
 }
 #header ul.menu-list > li > a:hover, 
 #header ul.menu-list > li.active > a {
-	color: #ea4e4e;
+	color: #e3428e;
 }
 #header ul.menu-list .sub-menu > li > a {
 	color: #808080;
 }
 #header ul.menu-list .sub-menu > li > a:hover, 
 #header ul.menu-list .sub-menu > li.active > a {
-	color: #ea4e4e;
+	color: #e3428e;
 }
 
 #header .header-menu-icon {
 	color: #BBB;
 }
 #header .header-menu-icon:hover {
-	color: #ea4e4e;
+	color: #e3428e;
 }
 
 #header .header-contact-icon {
 	color: #BBB;
 }
 #header .header-contact-icon:hover {
-	color: #ea4e4e;
+	color: #e3428e;
 }
 
 /* mobile header */
@@ -103,7 +103,7 @@ body {
 	color: #BBB;
 }
 .follow-me-buttons a:hover {
-	color: #ea4e4e;
+	color: #e3428e;
 }
 
 /* gallery list */
@@ -189,7 +189,7 @@ body {
 .bl-item-title:focus, 
 .bl-item-title h2:hover, 
 .bl-item-title h2:focus { 
-	color: #ea4e4e;
+	color: #e3428e;
 }
 .bl-item-desc {
 	color: #888;
@@ -225,7 +225,7 @@ body {
 .sidebar-comment-data .author a:hover,
 .sidebar-categories > ul > li > a:hover,
 .blog-author-more:hover {
-	color: #ea4e4e;
+	color: #e3428e;
 }
 
 .sidebar-categories > ul > li > a span {
@@ -233,7 +233,7 @@ body {
 	color: #999;
 }
 .sidebar-categories > ul > li > a:hover span {
-	background-color: #ea4e4e;
+	background-color: #e3428e;
 	color: #FFF;
 }
 .sidebar-comment-wrap .sidebar-comment a:hover {
@@ -276,7 +276,7 @@ body {
 .related-posts-item .rp-item-title:hover, 
 .related-posts-item .rp-item-title h4:hover,
 .media-heading a:hover {
-	color: #ea4e4e;
+	color: #e3428e;
 }
 
 @media (max-width: 992px) {
@@ -299,8 +299,8 @@ body {
 .pagination > .active > span:focus, 
 .pagination > .active > span:hover {
 	color: #FFF;
-	background-color: #ea4e4e;
-	border-color: #ea4e4e;
+	background-color: #e3428e;
+	border-color: #e3428e;
 }
 .pagination > li > a:focus, 
 .pagination > li > a:hover, 
@@ -415,7 +415,7 @@ select option {
 }
 .demo-thumbnail-btn:hover, 
 .demo-thumbnail-btn:focus {
-	color: #ea4e4e;
+	color: #e3428e;
 }
 .demo-thumbnail-image-wrap {
 	border-color: #1f1f1f;

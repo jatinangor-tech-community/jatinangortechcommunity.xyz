@@ -2,7 +2,7 @@
 * Template Helper Stylesheet
 *
 * You are free to use these extra prepared helper classes to customize your web site.
-* Template main color: #ea4e4e;
+* Template main color: #e3428e;
 --------------------------------------------------------------------------------------- */
 
 /* Table of Content
@@ -485,7 +485,7 @@
  *  Text color classes
 /* ------------------------------------------------------------- */
 
-.text-main { color: #ea4e4e !important; } /* Template main color */
+.text-main { color: #e3428e !important; } /* Template main color */
 .text-white { color: #FFF !important; }
 .text-gray { color: #888 !important; }
 .text-gray-2 { color: #CCC !important; }
@@ -506,7 +506,7 @@
  *  Link color classes
 /* ------------------------------------------------------------- */
 
-.link-main a { color: #ea4e4e !important; } /* Template main color */
+.link-main a { color: #e3428e !important; } /* Template main color */
 .link-white a { color: #FFF !important; }
 .link-gray a { color: #888 !important; }
 .link-gray-2 a { color: #CCC !important; }
@@ -527,7 +527,7 @@
  *  Background color classes
 /* ------------------------------------------------------------- */
 
-.bg-main { background-color: #ea4e4e !important; } /* Template main color */
+.bg-main { background-color: #e3428e !important; } /* Template main color */
 .bg-white { background-color: #FFF !important; }
 .bg-gray { background-color: #999 !important; }
 .bg-gray-2 { background-color: #EEE !important; }
@@ -743,11 +743,11 @@
 .border-right-outset { border-right-style: outset !important; }
 
 /* border color classes */
-.border-main { border-color: #ea4e4e !important; } /* template main color */
-.border-top-main { border-top-color: #ea4e4e !important; } /* template main color */
-.border-bottom-main { border-bottom-color: #ea4e4e !important; } /* template main color */
-.border-left-main { border-left-color: #ea4e4e !important; } /* template main color */
-.border-right-main { border-right-color: #ea4e4e !important; } /* template main color */
+.border-main { border-color: #e3428e !important; } /* template main color */
+.border-top-main { border-top-color: #e3428e !important; } /* template main color */
+.border-bottom-main { border-bottom-color: #e3428e !important; } /* template main color */
+.border-left-main { border-left-color: #e3428e !important; } /* template main color */
+.border-right-main { border-right-color: #e3428e !important; } /* template main color */
 
 .border-white { border-color: #FFF !important; }
 .border-top-white { border-top-color: #FFF !important; }
